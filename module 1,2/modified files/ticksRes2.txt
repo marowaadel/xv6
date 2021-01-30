@@ -1,0 +1,299 @@
+:::: Test 1 ::::
+PID: 7 | Ticks: 1 | Tickets: 10 | Inuse: 1
+PID: 8 | Ticks: 6 | Tickets: 20 | Inuse: 1
+PID: 6 | Ticks: 97 | Tickets: 30 | Inuse: 1
+
+
+:::: Test 2 ::::
+PID: 9 | Ticks: 10 | Tickets: 10 | Inuse: 1
+PID: 10 | Ticks: 14 | Tickets: 20 | Inuse: 1
+PID: 6 | Ticks: 105 | Tickets: 30 | Inuse: 1
+
+
+:::: Test 3 ::::
+PID: 11 | Ticks: 18 | Tickets: 10 | Inuse: 1
+PID: 12 | Ticks: 23 | Tickets: 20 | Inuse: 1
+PID: 6 | Ticks: 117 | Tickets: 30 | Inuse: 1
+
+
+:::: Test 4 ::::
+PID: 13 | Ticks: 27 | Tickets: 10 | Inuse: 1
+PID: 14 | Ticks: 32 | Tickets: 20 | Inuse: 1
+PID: 6 | Ticks: 130 | Tickets: 30 | Inuse: 1
+
+
+:::: Test 5 ::::
+PID: 15 | Ticks: 39 | Tickets: 10 | Inuse: 1
+PID: 16 | Ticks: 43 | Tickets: 20 | Inuse: 1
+PID: 6 | Ticks: 141 | Tickets: 30 | Inuse: 1
+
+
+:::: Test 6 ::::
+PID: 17 | Ticks: 47 | Tickets: 10 | Inuse: 1
+PID: 18 | Ticks: 52 | Tickets: 20 | Inuse: 1
+PID: 6 | Ticks: 155 | Tickets: 30 | Inuse: 1
+
+
+:::: Test 7 ::::
+PID: 19 | Ticks: 59 | Tickets: 10 | Inuse: 1
+PID: 20 | Ticks: 66 | Tickets: 20 | Inuse: 1
+PID: 6 | Ticks: 170 | Tickets: 30 | Inuse: 1
+
+
+:::: Test 8 ::::
+PID: 21 | Ticks: 72 | Tickets: 10 | Inuse: 1
+PID: 22 | Ticks: 80 | Tickets: 20 | Inuse: 1
+PID: 6 | Ticks: 181 | Tickets: 30 | Inuse: 1
+
+
+:::: Test 9 ::::
+PID: 23 | Ticks: 87 | Tickets: 10 | Inuse: 1
+PID: 24 | Ticks: 95 | Tickets: 20 | Inuse: 1
+PID: 6 | Ticks: 199 | Tickets: 30 | Inuse: 1
+
+
+:::: Test 10 ::::
+PID: 25 | Ticks: 105 | Tickets: 10 | Inuse: 1
+PID: 26 | Ticks: 113 | Tickets: 20 | Inuse: 1
+PID: 6 | Ticks: 219 | Tickets: 30 | Inuse: 1
+
+
+:::: Test 11 ::::
+PID: 27 | Ticks: 120 | Tickets: 10 | Inuse: 1
+PID: 28 | Ticks: 126 | Tickets: 20 | Inuse: 1
+PID: 6 | Ticks: 233 | Tickets: 30 | Inuse: 1
+
+
+:::: Test 12 ::::
+PID: 29 | Ticks: 133 | Tickets: 10 | Inuse: 1
+PID: 30 | Ticks: 137 | Tickets: 20 | Inuse: 1
+PID: 6 | Ticks: 246 | Tickets: 30 | Inuse: 1
+
+
+:::: Test 13 ::::
+PID: 31 | Ticks: 140 | Tickets: 10 | Inuse: 1
+PID: 32 | Ticks: 146 | Tickets: 20 | Inuse: 1
+PID: 6 | Ticks: 256 | Tickets: 30 | Inuse: 1
+
+
+:::: Test 14 ::::
+PID: 33 | Ticks: 151 | Tickets: 10 | Inuse: 1
+PID: 34 | Ticks: 155 | Tickets: 20 | Inuse: 1
+PID: 6 | Ticks: 267 | Tickets: 30 | Inuse: 1
+
+
+:::: Test 15 ::::
+PID: 35 | Ticks: 163 | Tickets: 10 | Inuse: 1
+PID: 36 | Ticks: 170 | Tickets: 20 | Inuse: 1
+PID: 6 | Ticks: 277 | Tickets: 30 | Inuse: 1
+
+
+:::: Test 16 ::::
+PID: 37 | Ticks: 175 | Tickets: 10 | Inuse: 1
+PID: 38 | Ticks: 182 | Tickets: 20 | Inuse: 1
+PID: 6 | Ticks: 288 | Tickets: 30 | Inuse: 1
+
+
+:::: Test 17 ::::
+PID: 39 | Ticks: 188 | Tickets: 10 | Inuse: 1
+PID: 40 | Ticks: 191 | Tickets: 20 | Inuse: 1
+PID: 6 | Ticks: 302 | Tickets: 30 | Inuse: 1
+
+
+:::: Test 18 ::::
+PID: 41 | Ticks: 195 | Tickets: 10 | Inuse: 1
+PID: 42 | Ticks: 199 | Tickets: 20 | Inuse: 1
+PID: 6 | Ticks: 315 | Tickets: 30 | Inuse: 1
+
+
+:::: Test 19 ::::
+PID: 43 | Ticks: 205 | Tickets: 10 | Inuse: 1
+PID: 44 | Ticks: 210 | Tickets: 20 | Inuse: 1
+PID: 6 | Ticks: 326 | Tickets: 30 | Inuse: 1
+
+
+:::: Test 20 ::::
+PID: 45 | Ticks: 213 | Tickets: 10 | Inuse: 1
+PID: 46 | Ticks: 217 | Tickets: 20 | Inuse: 1
+PID: 6 | Ticks: 335 | Tickets: 30 | Inuse: 1
+
+
+:::: Test 21 ::::
+PID: 47 | Ticks: 223 | Tickets: 10 | Inuse: 1
+PID: 48 | Ticks: 228 | Tickets: 20 | Inuse: 1
+PID: 6 | Ticks: 343 | Tickets: 30 | Inuse: 1
+
+
+:::: Test 22 ::::
+PID: 49 | Ticks: 232 | Tickets: 10 | Inuse: 1
+PID: 50 | Ticks: 237 | Tickets: 20 | Inuse: 1
+PID: 6 | Ticks: 354 | Tickets: 30 | Inuse: 1
+
+
+:::: Test 23 ::::
+PID: 51 | Ticks: 242 | Tickets: 10 | Inuse: 1
+PID: 52 | Ticks: 247 | Tickets: 20 | Inuse: 1
+PID: 6 | Ticks: 367 | Tickets: 30 | Inuse: 1
+
+
+:::: Test 24 ::::
+PID: 53 | Ticks: 252 | Tickets: 10 | Inuse: 1
+PID: 54 | Ticks: 256 | Tickets: 20 | Inuse: 1
+PID: 6 | Ticks: 378 | Tickets: 30 | Inuse: 1
+
+
+:::: Test 25 ::::
+PID: 55 | Ticks: 258 | Tickets: 10 | Inuse: 1
+PID: 56 | Ticks: 264 | Tickets: 20 | Inuse: 1
+PID: 6 | Ticks: 390 | Tickets: 30 | Inuse: 1
+
+
+:::: Test 26 ::::
+PID: 57 | Ticks: 267 | Tickets: 10 | Inuse: 1
+PID: 58 | Ticks: 271 | Tickets: 20 | Inuse: 1
+PID: 6 | Ticks: 402 | Tickets: 30 | Inuse: 1
+
+
+:::: Test 27 ::::
+PID: 59 | Ticks: 276 | Tickets: 10 | Inuse: 1
+PID: 60 | Ticks: 281 | Tickets: 20 | Inuse: 1
+PID: 6 | Ticks: 412 | Tickets: 30 | Inuse: 1
+
+
+:::: Test 28 ::::
+PID: 61 | Ticks: 287 | Tickets: 10 | Inuse: 1
+PID: 62 | Ticks: 293 | Tickets: 20 | Inuse: 1
+PID: 6 | Ticks: 424 | Tickets: 30 | Inuse: 1
+
+
+:::: Test 29 ::::
+PID: 63 | Ticks: 298 | Tickets: 10 | Inuse: 1
+PID: 64 | Ticks: 305 | Tickets: 20 | Inuse: 1
+PID: 6 | Ticks: 437 | Tickets: 30 | Inuse: 1
+
+
+:::: Test 30 ::::
+PID: 65 | Ticks: 310 | Tickets: 10 | Inuse: 1
+PID: 66 | Ticks: 314 | Tickets: 20 | Inuse: 1
+PID: 6 | Ticks: 451 | Tickets: 30 | Inuse: 1
+
+
+:::: Test 31 ::::
+PID: 67 | Ticks: 319 | Tickets: 10 | Inuse: 1
+PID: 68 | Ticks: 323 | Tickets: 20 | Inuse: 1
+PID: 6 | Ticks: 464 | Tickets: 30 | Inuse: 1
+
+
+:::: Test 32 ::::
+PID: 69 | Ticks: 327 | Tickets: 10 | Inuse: 1
+PID: 70 | Ticks: 333 | Tickets: 20 | Inuse: 1
+PID: 6 | Ticks: 479 | Tickets: 30 | Inuse: 1
+
+
+:::: Test 33 ::::
+PID: 71 | Ticks: 338 | Tickets: 10 | Inuse: 1
+PID: 72 | Ticks: 344 | Tickets: 20 | Inuse: 1
+PID: 6 | Ticks: 490 | Tickets: 30 | Inuse: 1
+
+
+:::: Test 34 ::::
+PID: 73 | Ticks: 348 | Tickets: 10 | Inuse: 1
+PID: 74 | Ticks: 354 | Tickets: 20 | Inuse: 1
+PID: 6 | Ticks: 503 | Tickets: 30 | Inuse: 1
+
+
+:::: Test 35 ::::
+PID: 75 | Ticks: 359 | Tickets: 10 | Inuse: 1
+PID: 76 | Ticks: 364 | Tickets: 20 | Inuse: 1
+PID: 6 | Ticks: 513 | Tickets: 30 | Inuse: 1
+
+
+:::: Test 36 ::::
+PID: 77 | Ticks: 369 | Tickets: 10 | Inuse: 1
+PID: 78 | Ticks: 375 | Tickets: 20 | Inuse: 1
+PID: 6 | Ticks: 526 | Tickets: 30 | Inuse: 1
+
+
+:::: Test 37 ::::
+PID: 79 | Ticks: 379 | Tickets: 10 | Inuse: 1
+PID: 80 | Ticks: 385 | Tickets: 20 | Inuse: 1
+PID: 6 | Ticks: 537 | Tickets: 30 | Inuse: 1
+
+
+:::: Test 38 ::::
+PID: 81 | Ticks: 390 | Tickets: 10 | Inuse: 1
+PID: 82 | Ticks: 396 | Tickets: 20 | Inuse: 1
+PID: 6 | Ticks: 547 | Tickets: 30 | Inuse: 1
+
+
+:::: Test 39 ::::
+PID: 83 | Ticks: 402 | Tickets: 10 | Inuse: 1
+PID: 84 | Ticks: 408 | Tickets: 20 | Inuse: 1
+PID: 6 | Ticks: 557 | Tickets: 30 | Inuse: 1
+
+
+:::: Test 40 ::::
+PID: 85 | Ticks: 414 | Tickets: 10 | Inuse: 1
+PID: 86 | Ticks: 421 | Tickets: 20 | Inuse: 1
+PID: 6 | Ticks: 568 | Tickets: 30 | Inuse: 1
+
+
+:::: Test 41 ::::
+PID: 87 | Ticks: 429 | Tickets: 10 | Inuse: 1
+PID: 88 | Ticks: 434 | Tickets: 20 | Inuse: 1
+PID: 6 | Ticks: 578 | Tickets: 30 | Inuse: 1
+
+
+:::: Test 42 ::::
+PID: 89 | Ticks: 439 | Tickets: 10 | Inuse: 1
+PID: 90 | Ticks: 444 | Tickets: 20 | Inuse: 1
+PID: 6 | Ticks: 591 | Tickets: 30 | Inuse: 1
+
+
+:::: Test 43 ::::
+PID: 91 | Ticks: 448 | Tickets: 10 | Inuse: 1
+PID: 92 | Ticks: 455 | Tickets: 20 | Inuse: 1
+PID: 6 | Ticks: 603 | Tickets: 30 | Inuse: 1
+
+
+:::: Test 44 ::::
+PID: 93 | Ticks: 459 | Tickets: 10 | Inuse: 1
+PID: 94 | Ticks: 463 | Tickets: 20 | Inuse: 1
+PID: 6 | Ticks: 617 | Tickets: 30 | Inuse: 1
+
+
+:::: Test 45 ::::
+PID: 95 | Ticks: 468 | Tickets: 10 | Inuse: 1
+PID: 96 | Ticks: 470 | Tickets: 20 | Inuse: 1
+PID: 6 | Ticks: 630 | Tickets: 30 | Inuse: 1
+
+
+:::: Test 46 ::::
+PID: 97 | Ticks: 476 | Tickets: 10 | Inuse: 1
+PID: 98 | Ticks: 480 | Tickets: 20 | Inuse: 1
+PID: 6 | Ticks: 639 | Tickets: 30 | Inuse: 1
+
+
+:::: Test 47 ::::
+PID: 99 | Ticks: 486 | Tickets: 10 | Inuse: 1
+PID: 100 | Ticks: 490 | Tickets: 20 | Inuse: 1
+PID: 6 | Ticks: 650 | Tickets: 30 | Inuse: 1
+
+
+:::: Test 48 ::::
+PID: 101 | Ticks: 494 | Tickets: 10 | Inuse: 1
+PID: 102 | Ticks: 499 | Tickets: 20 | Inuse: 1
+PID: 6 | Ticks: 660 | Tickets: 30 | Inuse: 1
+
+
+:::: Test 49 ::::
+PID: 103 | Ticks: 504 | Tickets: 10 | Inuse: 1
+PID: 104 | Ticks: 509 | Tickets: 20 | Inuse: 1
+PID: 6 | Ticks: 671 | Tickets: 30 | Inuse: 1
+
+
+:::: Test 50 ::::
+PID: 105 | Ticks: 514 | Tickets: 10 | Inuse: 1
+PID: 106 | Ticks: 519 | Tickets: 20 | Inuse: 1
+PID: 6 | Ticks: 683 | Tickets: 30 | Inuse: 1
+
